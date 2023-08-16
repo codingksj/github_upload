@@ -2,6 +2,7 @@
 깃허브 업로드 파이썬 파일
 
 <br>
+
  로컬 폴더 구조(절취선 내는 Github도 동일)
  
  --------------------
@@ -21,4 +22,5 @@
   ㄴcheck_github_not_uploaded.py
   ㄴnot_uploaded.txt
   ㄴsolved_number_list.txt
+  
 </br>
