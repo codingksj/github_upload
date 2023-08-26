@@ -27,8 +27,8 @@ def get_folder_file_list(folder_path):
     return file_list
 
 def main():
-    with open('number_list.txt', 'r') as number_file:
-        problem_numbers = list(map(int, number_file.read().split()))
+    with open('solved_number_list.txt', 'r') as solved_number_file:
+        problem_numbers = list(map(int, solved_number_file.read().split()))
     
     problem_numbers += extra_problems
     problem_numbers.sort()
