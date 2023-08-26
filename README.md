@@ -1,5 +1,5 @@
 # github_upload
-백준 문제를 긁어서 solved_number_list.txt에 저장한 후 check_github_not_uploaded.py로 아직 안 올린 파일을 확인하고, upload.py로 파일을 업로드합니다.
+<br>백준 문제를 긁어서 solved_number_list.txt에 저장한 후 check_github_not_uploaded.py로 아직 안 올린 파일을 확인하고, upload.py로 파일을 업로드합니다.</br>
 개인 액세스 토큰이 필요합니다. 다른 사람에게 보여주지 마시고 설정에서 발급 받으세요.
 
 <br>
