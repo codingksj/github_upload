@@ -14,9 +14,10 @@
 - 29000~29999
 
 ## 백준 정보
-- upload.py
-- check_github_not_uploaded.py
-- not_uploaded.txt
-- solved_number_list.txt
+- upload.py : 업로드 해줍니다.
+- check_github_not_uploaded.py : 업로드 되지 않은 항목을 로컬 폴더에서 찾습니다.
+- create_folder.py - 일정한 형태로 현재 디렉토리에 디렉토리를 생성합니다.
+- not_uploaded.txt : 업로드 되지 않은 항목입니다.
+- solved_number_list.txt - 푼 문제 수입니다.
 
 </br>
